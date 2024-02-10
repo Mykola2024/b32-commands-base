@@ -7,4 +7,6 @@ public class Test0123 {
     //changes
     //testing
     //git add Test0123
+    //more testing
+    //combining
 }
